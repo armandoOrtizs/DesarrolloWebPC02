@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{59B70C42-1487-4F32-BFD6-00187CEDF4CE}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OrtizPC02 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrtizPC02/Repositories/SupplierRepository.cs">
+    <Files>
+      <File FileName="OrtizPC02/Models/SalesContext.cs" Line="1" Column="1" />
+      <File FileName="OrtizPC02/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="OrtizPC02/Controllers/SupplierController.cs" Line="22" Column="1" />
+      <File FileName="OrtizPC02/Repositories/SupplierController.cs" Line="25" Column="59" />
+      <File FileName="OrtizPC02/Repositories/SupplierInterface.cs" Line="12" Column="44" />
+      <File FileName="OrtizPC02/Program.cs" Line="15" Column="40" />
+      <File FileName="OrtizPC02/appsettings.json" Line="11" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrtizPC02" expanded="True">
+            <Node name="OrtizPC02" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="SupplierRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
